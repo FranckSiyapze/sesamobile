@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114864298859",
+    "project_id": "sesa-716cf",
+    "storage_bucket": "sesa-716cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114864298859:android:71d677652fb16806030a2e",
+        "android_client_info": {
+          "package_name": "com.scorp.sesa.sesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114864298859-eotbmpk42j0gts64ca2h00j7p2pop3h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqe_F7zdLe4OPdF2rKAzmsdvw0qhC2Ot4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114864298859-eotbmpk42j0gts64ca2h00j7p2pop3h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
